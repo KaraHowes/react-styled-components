@@ -30,7 +30,7 @@ font-family: 'Times New Roman', Times, serif;
   line-height: 122.2px;
   position: absolute;
   z-index: 1;
-  left: 250px;
+  left: 170px;
   top: 200px;
   width: 684px;
   height: 243px;
@@ -45,7 +45,7 @@ position: absolute;
   height: 500px;
   border-radius: 50%;
   top: -50px;
-  left: 106px;
+  left: 150px;
   background-color: #DD8723
 `
 
